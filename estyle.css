@@ -1,0 +1,10 @@
+body{
+    font-family: arial,sans-serif;
+    background-color: azure;
+}
+#app{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+
+}
